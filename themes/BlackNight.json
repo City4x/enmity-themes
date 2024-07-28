@@ -1,6 +1,6 @@
   {
-  "name": "BlackNight",
-  "description": "A black night.",
+  "name": "Cat",
+  "description": "No way.",
   "version": "1.4",
   "authors": [
     {
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://raw.githubusercontent.com/Mortyick/enmitythemebgs/main/897158BF-0C57-454B-9892-39B02AEC5E79.jpeg",
+    "url": "https://i.ibb.co/93MdCm2/received-3410239269195438.jpg",
     "alpha": 1.0
   }
 }
