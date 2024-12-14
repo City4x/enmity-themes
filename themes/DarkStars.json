@@ -18,11 +18,11 @@
       "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#30c74b",
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#ffffff",
+      "#30c74b",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
@@ -42,11 +42,11 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#1b1b1b",
+      "#0a0a0a",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1b1b1b",
+      "#0a0a0a",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -126,7 +126,7 @@
       "#000000"
     ],
     "KEYBOARD": [
-      "#000000",
+      "#1f1433",
       "#0c0c0c"
     ]
   },
