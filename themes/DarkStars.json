@@ -18,11 +18,11 @@
       "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#6b364f",
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#ffffff",
+      "#6b364f",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
@@ -42,11 +42,11 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#1b1b1b",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1b1b1b",
+      "#000000",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.3,
-    "url": "https://files.catbox.moe/jr65hk.jpeg",
+    "url": "https://files.catbox.moe/u322mm.png",
     "alpha": 1.0
   }
 }
